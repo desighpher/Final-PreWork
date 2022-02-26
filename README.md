@@ -1,4 +1,4 @@
-## Hello World App (CodePath +First Swift Program)
+## Hello World App (CodePath + First Swift Program)
 
 ### This app displays the Hello From Sadiya Label as well as a couple buttons. It allows you to change the text color, background color, and change the text string of the label upon clicking each button.
 
